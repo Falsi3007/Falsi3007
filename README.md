@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vadaliya Falsi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=falsi3007&label=Profile%20views&color=0e75b6&style=flat" alt="falsi3007" /> </p>
-
 - 🌱 I’m currently learning **Node,Express,MongoDB**
 
 - 📫 How to reach me **falsivadaliya@gmail.com**
